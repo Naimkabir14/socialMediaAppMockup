@@ -1,2 +1,2 @@
-# Word-Up
-A Georgia Tech junior design capstone project featuring an android application designed to improve community engagement in the Hampton Roads district.
+# S0c1al M3d1a!
+Demo of social sedia app on Android Studios
